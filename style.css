@@ -1,27 +1,6 @@
-div[class^="col"] {
-    border: 3px solid black;
-    min-height: 160px;
+#Plan {
+    background-color: #7feb96;
+    color: black;
+    border-radius: 15px;    
 }
 
-.blue{
-    background-color: #8fbaef;
-}
-
-.yellow{
-    background-color: #ffed7f;
-}
-
-
-.gray {
-background-color: #e4e4e4;
-}
-
-.red {
-    background-color: #e49e9e;
-}
-
-.green{
-    background-color: #addcae;
-}
-
-/*end of first grid*/
